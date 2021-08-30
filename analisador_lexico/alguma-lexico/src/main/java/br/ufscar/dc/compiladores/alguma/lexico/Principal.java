@@ -1,7 +1,7 @@
 /*
  * Analisador Léxico 
  * Autores: João Victor Pacheco RA: 594970
- *          Luan Batista da Silva RA: 
+ *          Luan Batista da Silva RA: 725812
  *          Lucas Mathaeus Pereira RA: 726561
  * Descrição: Projeto de um Analisador Léxico para a disciplina de Construção 
  * de Compiladores I, ministrada pelo professor Daniel Lucrédio no Semetre 
