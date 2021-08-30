@@ -44,7 +44,7 @@ CADEIA_NFECHADA: '"' (ESC_SEQ | ~('"' | '\\') )* '\n';
 
 fragment
 ESC_SEQ: '\\"';
-
+ 
 
 
 COMENTARIO: '{'  ~('\n')*? '}' -> skip;

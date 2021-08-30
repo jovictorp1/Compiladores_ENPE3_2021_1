@@ -1,12 +1,13 @@
 /*
  * Analisador Léxico 
- * Autor: João Victor Pacheco RA:594970
- *
- * Descrição: Projeto de um Analisador Léxico para a disciplian de Construção 
+ * Autores: João Victor Pacheco RA: 594970
+ *          Luan Batista da Silva RA: 
+ *          Lucas Mathaeus Pereira RA: 726561
+ * Descrição: Projeto de um Analisador Léxico para a disciplina de Construção 
  * de Compiladores I, ministrada pelo professor Daniel Lucrédio no Semetre 
- * ENPE 2020/2 - Projeto feito baseado nos exemplos de aula do professor, por
- * isso alguns nomes de classes são iguais aos do professor, pois eu fui
- * seguindo o vídeo e fazendo, junto com as minhas modificações nos códigos.
+ * ENPE3 2021/1 - Projeto feito baseado nos exemplos de aula do professor, por
+ * isso alguns nomes de classes são iguais aos do professor, pois fomos
+ * seguindo o vídeo e fazendo, junto com algumas modificações nos códigos.
  *
  *Para compilar: 
  * - Clique em File > Open Project 
