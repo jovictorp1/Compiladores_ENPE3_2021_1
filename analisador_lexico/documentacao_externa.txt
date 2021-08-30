@@ -1,0 +1,59 @@
+Documentação Externa - Analisador Léxico
+
+Autor: João Victor Pacheco RA:594970
+
+
+Descrição: Projeto de um Analisador Léxico para a disciplian de Construção de Compiladores I, ministrada pelo professor Daniel Lucrédio no Semetre ENPE 2020/2 - Projeto feito baseado nos exemplos de aula do professor.
+Projeto feito baseado nos exemplos de aula do professor, por isso alguns nomes de classes são iguais aos do professor, pois eu fui seguindo o vídeo e fazendo, junto com as minhas modificações nos códigos.
+
+
+Programas necessários: (baseados nos utilizados para o desenvolvimento)
+	-Apache Netbeans IDE 11.2 
+	-Máquina Virtual Java (mais recente)
+
+
+(Utilizarei os termos em inglês, porém caso sua versão do Netbeans esteja em português, basta traduzir as opções selecionadas para o português).
+
+
+
+Para compilar:
+	-Abra o NetBeans IDE
+	-Clique em File > Open Project 
+		Selecione o diretório onde você salvou o projeto, clique no nome do projeto "alguma-lexico" e clique em Open Project
+	-Selecione o projeto 'alguma-lexico' na aba Projects (caso você tenha outros projetos nessa aba), clique com o botão direito no nome do projeto e selecione "Build"  (ou "Clean and Build" caso seja a primeira vez que for executar).
+
+--------------------------------------------------------------------------------------------------------------------------------------
+	
+Caso queira acessar ou editar o código fonte desse analisador léxico, você pode explorar as pastas presentes na aba Files 
+
+Programa Principal: Files> alguma-lexico > src > main > java > br > ufscar > dc > compiladores > alguma > lexico > Principal.java
+
+Regras Lexicas: Files> alguma-lexico > src > main > antlr4 > br > ufscar > dc > compiladores > alguma > lexico > AlgumaLexer.g4
+
+Tokens Gerados: Files> alguma-lexico > target > generated-sources > antlr4 > AlgumaLexer.tokens
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Para executar:
+	Para executar deve-se usar o terminal. Nele você colocará o comando "java -jar" e em seguida colocar os 3 seguintes argumentos:
+	
+	ARG1: caminho completo do arquivo analisador_lexico.jar 
+	ARG2: caminho completo de um arquivo de entrada que você deseja analisar que esteja na linguagem LA
+	ARG3: caminho completo para um arquivo .txt de saída, onde o analisador lexico irá salvar o output.
+	
+	Exemplo: java -jar /home/usuario/Documents/analisador_lexico.jar /home/usuario/Documents/arquivo_entrada.txt /home/usuario/Documents/temp/saida.txt
+	
+	
+	Após você colocar esse comando no terminal, você deve apertar "Enter" e o analisador léxico irá salvar a saída para você no arquivo escolhido.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
