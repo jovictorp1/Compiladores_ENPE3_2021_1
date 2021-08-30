@@ -1,7 +1,7 @@
 Documentação Externa - Analisador Léxico
 
 Autores: João Victor Pacheco RA:594970
-	 Luan Batista da Silva 725812
+	 Luan Batista da Silva RA:725812
 	 Lucas Mathaeus Pereira RA:726561
 
 
