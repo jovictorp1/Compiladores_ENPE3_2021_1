@@ -8,6 +8,7 @@ A linguagem SASQL foi criada com o intuito de ser uma linguagem mais fácil e ma
 extração e consulta de informações em bancos de dados e datamarts utilizando como base as linguagens
 SQL hoje conhecidas. Ela por ser mais simplificada pode ser aprendida com maior facilidade, fazendo 
 com que pessoas com pouco conhecimento em SQL aprendam ela de forma simples e rápida.
+Foi criada utilizando alguns conceitos a cerca das linguagens SQL e SAS.
 
 ###### Para mais informações, assista ao vídeo de apresentação:
 
