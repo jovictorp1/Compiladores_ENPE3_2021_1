@@ -1,0 +1,9 @@
+PROC SQL;
+
+EXPORT tabela2;
+FILEPATH= "/home/jovictorp1/";
+FILENAME= "tabela2";
+FILETYPE= XLSV;
+
+
+QUIT;

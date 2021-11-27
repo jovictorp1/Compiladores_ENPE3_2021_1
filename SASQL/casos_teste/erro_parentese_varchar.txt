@@ -1,0 +1,7 @@
+PROC SQL;
+
+
+ DELETE FROM tabela1 
+ WHERE CIDADE = "Sao Carlos;
+
+QUIT;

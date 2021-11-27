@@ -1,13 +1,14 @@
 /*
- * Analisador Sintatico (Manipulador de Arquivo)
+ * Trabalho 4 - Linguagem SASQL
  * Autores: João Victor Pacheco RA: 594970
- *          Luan Batista da Silva RA: 
- *          Lucas Mathaeus Pereira RA: 726561
- * Descrição: Projeto de um Analisador Sintatico para a disciplina de Construção 
- * de Compiladores I, ministrada pelo professor Daniel Lucrédio no Semetre 
- * ENPE3 2021/1 - Projeto feito baseado nos exemplos de aula do professor, por
- * isso alguns nomes de classes são iguais aos do professor, pois fomos
- * seguindo o vídeo e fazendo, junto com algumas modificações nos códigos.
+ * SASQL - Small Adapted Structured Query Language
+ *
+ * Linguagem criada baseada em algumas funcionalidades do SQL
+ * para o trabalho 4 da disciplina de Construção de Compiladores
+ * Projeto ainda inacabado, feito utilizando como esqueleto os projetos
+ * da disciplina. Funcionando parte do analisador lexico e sintatico
+ * Não consegui terminar a tempo o restante do projeto. Mas comecei o desenvolvimento
+ * da parte semantica dele, porém deixei o código comentado.
  *
  *Para compilar: 
  * - Clique em File > Open Project 
@@ -17,7 +18,6 @@
  *   (caso você tenha outros projetos nessa aba), clique com o botão direito
  *   no nome do projeto e selecione "Build"  (ou "Clean and Build" caso seja a
  *   primeira vez que for executar).
- *
  */
 package br.ufscar.dc.compiladores.alguma.sintatico;
 

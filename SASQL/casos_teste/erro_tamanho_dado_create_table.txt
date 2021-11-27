@@ -1,0 +1,9 @@
+PROC SQL;
+
+
+CREATE TABLE tabela1 AS 
+
+		nome:varchar();
+		idade:integer;
+
+QUIT;
