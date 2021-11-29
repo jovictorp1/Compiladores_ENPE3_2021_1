@@ -1,0 +1,14 @@
+/home/jovictorp1/NetBeansProjects/semantico/target/generated-sources/antlr4/br/ufscar/dc/compiladores/semantico/AlgumaLexer.java
+/home/jovictorp1/NetBeansProjects/semantico/src/main/java/br/ufscar/dc/compiladores/semantico/EntradaTabelaDeSimbolos.java
+/home/jovictorp1/NetBeansProjects/semantico/src/main/java/br/ufscar/dc/compiladores/semantico/SemanticoUtils.java
+/home/jovictorp1/NetBeansProjects/semantico/src/main/java/br/ufscar/dc/compiladores/semantico/Principal.java
+/home/jovictorp1/NetBeansProjects/semantico/src/main/java/br/ufscar/dc/compiladores/semantico/ErrorListener.java
+/home/jovictorp1/NetBeansProjects/semantico/src/main/java/br/ufscar/dc/compiladores/semantico/TipoVar.java
+/home/jovictorp1/NetBeansProjects/semantico/src/main/java/br/ufscar/dc/compiladores/semantico/TabelaDeSimbolos.java
+/home/jovictorp1/NetBeansProjects/semantico/target/generated-sources/antlr4/br/ufscar/dc/compiladores/semantico/AlgumaListener.java
+/home/jovictorp1/NetBeansProjects/semantico/src/main/java/br/ufscar/dc/compiladores/semantico/Escopos.java
+/home/jovictorp1/NetBeansProjects/semantico/target/generated-sources/antlr4/br/ufscar/dc/compiladores/semantico/AlgumaParser.java
+/home/jovictorp1/NetBeansProjects/semantico/src/main/java/br/ufscar/dc/compiladores/semantico/TipoVariavel.java
+/home/jovictorp1/NetBeansProjects/semantico/target/generated-sources/antlr4/br/ufscar/dc/compiladores/semantico/AlgumaBaseVisitor.java
+/home/jovictorp1/NetBeansProjects/semantico/target/generated-sources/antlr4/br/ufscar/dc/compiladores/semantico/AlgumaBaseListener.java
+/home/jovictorp1/NetBeansProjects/semantico/target/generated-sources/antlr4/br/ufscar/dc/compiladores/semantico/AlgumaVisitor.java
